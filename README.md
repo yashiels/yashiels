@@ -2,7 +2,7 @@
 
 **I build companies and ship products.**
 
-Payments infrastructure powering Africa's biggest brands. Autonomous AI agents running businesses on autopilot. Fleet intelligence for logistics at scale. I operate at the intersection of fintech, AI, and real-world systems — from POS terminals in retail stores to serverless backends processing millions.
+Payments infrastructure powering Africa's biggest brands. Autonomous AI agents running businesses on autopilot. Fleet intelligence for logistics at scale. I operate at the intersection of fintech, AI, and real-world systems - from POS terminals in retail stores to serverless backends processing millions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashielsookdeo)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashiels)
@@ -12,11 +12,11 @@ Payments infrastructure powering Africa's biggest brands. Autonomous AI agents r
 
 ### Ventures
 
-<img src="assets/stitch-logo.png" height="20" align="top" /> &nbsp;**[Stitch](https://stitch.money)** — South Africa's leading payments platform. $107M funded. Powers payments for MTN, Vodacom, Takealot, FlySafair, Hollywoodbets. I build across the full stack — online payments, open banking, card-present terminal systems, and merchant infrastructure.
+<img src="assets/stitch-logo.png" height="20" align="top" /> &nbsp;**[Stitch](https://stitch.money)** - South Africa's leading payments platform. $107M funded. Powers payments for MTN, Vodacom, Takealot, FlySafair, Hollywoodbets. I build across the full stack - online payments, open banking, card-present terminal systems, and merchant infrastructure.
 
-<img src="https://nexiontech.co.za/logo.svg" height="20" align="top" /> &nbsp;**[Nexion Technologies](https://nexiontech.co.za)** — AI agents and autonomous workflows that run businesses and manage lives. Fully on autopilot.
+<img src="https://nexiontech.co.za/logo.svg" height="20" align="top" /> &nbsp;**[Nexion Technologies](https://nexiontech.co.za)** - AI agents and autonomous workflows that run businesses and manage lives. Fully on autopilot.
 
-<img src="assets/skylog-logo.png" height="20" align="top" /> &nbsp;**[SkyLog](https://skylog.co.za)** — Enterprise fleet management. Real-time tracking, seven core modules, deep analytics. Architected from zero.
+<img src="assets/skylog-logo.png" height="20" align="top" /> &nbsp;**[SkyLog](https://skylog.co.za)** - Enterprise fleet management. Real-time tracking, seven core modules, deep analytics. Architected from zero.
 
 ---
 
