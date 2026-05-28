@@ -31,7 +31,6 @@ Payments infrastructure powering Africa's biggest brands. Autonomous AI agents r
 
 #### macOS Apps
 - ☀️ **[KeepAwake](https://github.com/yashiels/keep-awake)** — menu bar app to prevent Jamf-managed screen lock
-- 🔔 **[RepoBar](https://github.com/yashiels/RepoBar)** — GitHub repo status in the macOS menu bar
 
 #### Infrastructure
 - 🍺 **[homebrew-tap](https://github.com/yashiels/homebrew-tap)** — Homebrew tap for shipping CLI tools
