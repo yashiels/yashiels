@@ -57,9 +57,6 @@ Payments infrastructure powering Africa's biggest brands. Autonomous AI agents r
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
----
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/yashiels)
 
 ---
 
