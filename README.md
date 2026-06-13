@@ -28,6 +28,11 @@ Payments infrastructure powering Africa's biggest brands. Autonomous AI agents r
 - 📬 **[postnet](https://github.com/yashiels/postnet-cli)** — track your parcel in one command
 - 🥬 **[woolies](https://github.com/yashiels/woolworths-cli)** — Woolworths Dash grocery delivery from your shell
 - 🪜 **[orro](https://github.com/yashiels/orro-cli)** — control your standing desk from the terminal
+- 🔗 **[lnk](https://github.com/yashiels/linkedin-cli)** — LinkedIn from the terminal — jobs, profiles, applications
+- 🐦 **[twt](https://github.com/yashiels/twitter-cli)** — X/Twitter from the terminal
+
+#### Web Apps
+- 🎬 **[SkyStream](https://github.com/yashiels/skystream)** — media streaming app ([live](https://skystream-pearl.vercel.app))
 
 #### macOS Apps
 - ☀️ **[KeepAwake](https://github.com/yashiels/keep-awake)** — menu bar app to prevent Jamf-managed screen lock
@@ -36,6 +41,7 @@ Payments infrastructure powering Africa's biggest brands. Autonomous AI agents r
 - 🍺 **[homebrew-tap](https://github.com/yashiels/homebrew-tap)** — Homebrew tap for shipping CLI tools
 - 🔀 **[git-mesh](https://github.com/yashiels/git-mesh)** — manage multiple git repos as one
 - 🧠 **[vector-memory](https://github.com/yashiels/vector-memory)** — persistent vector memory for AI agents
+- 🚀 **[houston](https://github.com/yashiels/houston)** — multi-context autonomous development orchestrator
 
 ---
 
