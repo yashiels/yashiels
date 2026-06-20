@@ -30,6 +30,7 @@ Payments infrastructure powering Africa's biggest brands. Autonomous AI agents r
 - 🪜 **[orro](https://github.com/yashiels/orro-cli)** — control your standing desk from the terminal
 - 🔗 **[lnk](https://github.com/yashiels/linkedin-cli)** — LinkedIn from the terminal — jobs, profiles, applications
 - 🐦 **[twt](https://github.com/yashiels/twitter-cli)** — X/Twitter from the terminal
+- 👽 **[reddit](https://github.com/yashiels/reddit-cli)** — Reddit from the terminal — browse, search, vote, reply
 
 #### Web Apps
 - 🎬 **[SkyStream](https://github.com/yashiels/skystream)** — media streaming app ([live](https://skystream-pearl.vercel.app))
